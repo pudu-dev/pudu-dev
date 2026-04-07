@@ -62,7 +62,7 @@
 - Responsive design (mobile-first)
 - State Management
 - CRUD
-- MIDDLEWARE
+- Middleware
 - ORM
 - Asynchronous Programming
 - MVC / MVT
