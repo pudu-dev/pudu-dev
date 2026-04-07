@@ -19,111 +19,132 @@
 
 ### Main Stack:
 
-Lenguages: 
- HTML
- CSS
- JavaScript
- TypeScript
- PHP
- Python
+<p><strong>Lenguages:<br></strong></p>
+ HTML<br>
+ CSS<br>
+ JavaScript<br>
+ TypeScript<br>
+ PHP<br>
+ Python<br>
 
-Frameworks: 
- Django
- Express.js
+<br>
+<p><strong>Frameworks:<br></strong></p> 
+ Django<br>
+ Express.js<br>
 
-Libraries: 
- React
- Tailwind CSS
- Three.js (WebGL)
+<br>
+<p><strong>Libraries:<br></strong></p>
+ React<br>
+ Tailwind CSS<br>
+ Three.js (WebGL)<br>
 
-Runtime: 
- Node.js
-
-Tags: 
- WebSockets
- REST APIs
- HTTP / JSON
- AJAX
- AAA (JWT, Cookies / Sessions)
- Responsive design (mobile-first)
- State Management
- CRUD
- MIDDLEWARE
- ORM
- Asynchronous Programming
- MVC / MVT
- Client-Server Arquitecture
- API-based Arquitecture
- Component-Based Architecture
- Event-Driven Architecture
- Single Page Application (SPA) Architecture
- Layered Architecture
- SOLID principles
- Modular Architecture
-
-
--> Second Stack:
-
- Android Studio - Kotlin.
- Unity C#
+<br>
+<p><strong>Runtime:<br></strong></p>
+ Node.js<br>
+ 
+<br>
+<p><strong>Tags:<br></strong></p>
+ WebSockets<br>
+ REST APIs<br>
+ HTTP / JSON<br>
+ AJAX<br>
+ AAA (JWT, Cookies / Sessions)<br>
+ Responsive design (mobile-first)<br>
+ State Management<br>
+ CRUD<br>
+ MIDDLEWARE<br>
+ ORM<br>
+ Asynchronous Programming<br>
+ MVC / MVT<br>
+ Client-Server Arquitecture<br>
+ API-based Arquitecture<br>
+ Component-Based Architecture<br>
+ Event-Driven Architecture<br>
+ Single Page Application (SPA) Architecture<br>
+ Layered Architecture<br>
+ SOLID principles<br>
+ Modular Architecture<br>
 
 
--> Basic knowledgue Stack:
+<br>
+<br>
+<p><strong>Second Stack:</strong></p>
 
- Arduino C++
-
-
--> Databases:
-
- relational: SQL(MySQL - PostgreSQL)
- non-relational: MongoDB
-
--> Database Tools:
-
- MySQL Workbench
- TablePlus
+ Android Studio - Kotlin<br>
+ Unity C#<br>
 
 
--> Sistemas Operativos:
+<br>
+<br>
+<p><strong>Basic knowledgue Stack:</strong></p>
 
- Windows
- Linux
-
-
--> Utilities:
-
- Microsoft 365
-
--> Data Analysis:
-
- Knime
- PowerBI
-
--> Cloud & Deployment: 
-
- Amazon Web Services (AWS)
- Google Cloud Platform (GCP)
- Application Deployment (web apps)
- Environment Configuration (environment variables)
+ Arduino C++<br>
 
 
--> Version Control:
+<br>
+<br>
+<p><strong>Databases:</strong>
 
- Git & GitHub
- Filezilla (sFTP)
+ <strong>relational</strong>: SQL(MySQL - PostgreSQL)<br>
+ <strong>non-relational</strong>: MongoDB<br>
 
+<br>
+<br>
+<p><strong>Database Tools:</strong>
 
--> Documentación:
+ MySQL Workbench<br>
+ TablePlus<br>
 
- UML Diagrams
- Technical Documentation
- Software Reports
+<br>
+<br>
+<p><strong>Sistemas Operativos:</strong>
 
+ Windows<br>
+ Linux<br>
 
--> Idiomas:
+<br>
+<br>
+<p><strong>Utilities:</strong>
 
- Spanish: native
- English: B2
+ Microsoft 365<br>
+
+<br>
+<br>
+<p><strong>Data Analysis:</strong></p>
+
+ Knime<br>
+ PowerBI<br>
+
+<br>
+<br>
+<p><strong>Cloud & Deployment:</strong></p>
+
+ Amazon Web Services (AWS)<br>
+ Google Cloud Platform (GCP)<br>
+ Application Deployment (web apps)<br>
+ Environment Configuration (environment variables)<br>
+
+<br>
+<br>
+<p><strong>Version Control:</strong></p>
+
+ Git & GitHub<br>
+ Filezilla (sFTP)<br>
+
+<br>
+<br>
+<p><strong>Documentation:</strong></p>
+
+ UML Diagrams<br>
+ Technical Documentation<br>
+ Software Reports<br>
+
+<br>
+<br>
+<p><strong>Idioms:</strong></p>
+
+ Spanish: native<br>
+ English: B2<br>
 
 
 
