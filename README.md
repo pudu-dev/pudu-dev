@@ -19,7 +19,7 @@
 
 ### Main Stack:
 
-<p><strong>Lenguages:<br></strong></p>
+<p><strong>Languages:<br></strong></p>
  HTML<br>
  CSS<br>
  JavaScript<br>
@@ -56,8 +56,8 @@
  ORM<br>
  Asynchronous Programming<br>
  MVC / MVT<br>
- Client-Server Arquitecture<br>
- API-based Arquitecture<br>
+ Client-Server Architecture<br>
+ API-based Architecture<br>
  Component-Based Architecture<br>
  Event-Driven Architecture<br>
  Single Page Application (SPA) Architecture<br>
