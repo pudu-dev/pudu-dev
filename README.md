@@ -107,7 +107,7 @@
 | non-relational | MongoDB                     | Tableplus  |
  
 <br>
-<img width="478" height="498" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmIyenZheGR1ZXQ3M244aDQweTRwenhxNDBhOHRqOG9raHJwaTkweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b07xkmPNCjp6SQQdwo/giphy.gif" />
+<img width="400" height="400" align="right" src="https://media.tenor.com/um_qmSDo92YAAAAj/looking-for-a-job-job.gif" />
 
 ### Operative systems:
 | S.O                 | Utilities                 |
@@ -125,6 +125,7 @@
 | Excel          |
 
 <br>
+<img width="400" height="400" align="right" src="https://media.tenor.com/DPTcrNNb-agAAAAi/open-to-work-work.gif" />
 
 ### Cloud & Deployment:
 | Service                                           |
@@ -136,7 +137,6 @@
 
 <br>
 
-
 ### Version Control:  
 | Tools               |
 |---------------------|
@@ -144,6 +144,7 @@
 | Filezilla (sFTP)    |
 
 <br>
+<img width="400" height="400" align="right" src="https://media.tenor.com/oggLKmyubM0AAAAi/yes-say-yes.gif" />
 
 ### Documentation:
 | Type                         |
