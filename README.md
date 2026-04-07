@@ -19,31 +19,42 @@
 
 ### Main Stack:
 
-<p><strong>Languages:<br></strong></p>
- HTML<br>
- CSS<br>
- JavaScript<br>
- TypeScript<br>
- PHP<br>
- Python<br>
-
 <br>
-<p><strong>Frameworks:<br></strong></p> 
- Django<br>
- Express.js<br>
 
-<br>
-<p><strong>Libraries:<br></strong></p>
- React<br>
- Tailwind CSS<br>
- Three.js (WebGL)<br>
+**Languages:**
 
-<br>
-<p><strong>Runtime:<br></strong></p>
- Node.js<br>
+ HTML <br>
+ CSS <br>
+ JavaScript <br>
+ TypeScript <br>
+ PHP <br>
+ Python 
  
 <br>
-<p><strong>Tags:<br></strong></p>
+
+**Frameworks:**
+
+ Django <br>
+ Express.js 
+ 
+<br>
+
+**Libraries:**
+
+ React <br>
+ Tailwind CSS <br>
+ Three.js (WebGL)
+ 
+<br>
+
+**Runtime:**
+
+ Node.js
+ 
+<br>
+
+**Tags:**
+
  WebSockets<br>
  REST APIs<br>
  HTTP / JSON<br>
@@ -63,88 +74,100 @@
  Single Page Application (SPA) Architecture<br>
  Layered Architecture<br>
  SOLID principles<br>
- Modular Architecture<br>
-
+ Modular Architecture
 
 <br>
 <br>
-<p><strong>Second Stack:</strong></p>
+
+**Second Stack:**
 
  Android Studio - Kotlin<br>
- Unity C#<br>
-
-
-<br>
-<br>
-<p><strong>Basic knowledgue Stack:</strong></p>
-
- Arduino C++<br>
-
+ Unity C#
 
 <br>
 <br>
-<p><strong>Databases:</strong>
+
+**Basic knowledgue Stack:**
+
+ Arduino C++ 
+
+<br>
+<br>
+
+
+**Databases:**
 
  <strong>relational</strong>: SQL(MySQL - PostgreSQL)<br>
- <strong>non-relational</strong>: MongoDB<br>
+ <strong>non-relational</strong>: MongoDB 
+ 
+<br>
 
-<br>
-<br>
-<p><strong>Database Tools:</strong>
+**Database Tools:**
 
- MySQL Workbench<br>
- TablePlus<br>
+ MySQL Workbench <br>
+ TablePlus 
+ 
+<br>
+<br>
+ 
 
-<br>
-<br>
-<p><strong>Sistemas Operativos:</strong>
+**Sistemas Operativos:**
 
- Windows<br>
- Linux<br>
+ Windows <br>
+ Linux 
+ 
+<br>
+<br>
 
-<br>
-<br>
-<p><strong>Utilities:</strong>
+**Utilities:**
 
- Microsoft 365<br>
+ Microsoft 365 
+ 
+<br>
+<br>
 
-<br>
-<br>
-<p><strong>Data Analysis:</strong></p>
+**Data Analysis:**
 
  Knime<br>
- PowerBI<br>
+ PowerBI 
 
 <br>
 <br>
-<p><strong>Cloud & Deployment:</strong></p>
+
+**Cloud & Deployment:**
 
  Amazon Web Services (AWS)<br>
  Google Cloud Platform (GCP)<br>
  Application Deployment (web apps)<br>
- Environment Configuration (environment variables)<br>
+ Environment Configuration (environment variables) 
 
 <br>
 <br>
-<p><strong>Version Control:</strong></p>
+
+**Version Control:**
 
  Git & GitHub<br>
- Filezilla (sFTP)<br>
+ Filezilla (sFTP) 
 
 <br>
 <br>
-<p><strong>Documentation:</strong></p>
+
+**Documentation:**
 
  UML Diagrams<br>
  Technical Documentation<br>
- Software Reports<br>
+ Software Reports 
 
 <br>
 <br>
-<p><strong>Idioms:</strong></p>
+
+**Idioms:**
 
  Spanish: native<br>
- English: B2<br>
+ English: B2 
+
+<br>
+<br>
 
 
 
