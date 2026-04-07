@@ -161,6 +161,8 @@
 | English    | Upper-Intermediate (B2) |
 | Português  | Basic                   | 
 
+<br>
+
 <p align="center">
   <img src="https://media.tenor.com/Es_0nGDn7s8AAAAi/loading.gif" width="30" height="30" />
 </p>
