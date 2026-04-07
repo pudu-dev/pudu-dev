@@ -138,7 +138,7 @@
 ### Idioms:
 | Lenguage   | Proficiency             |
 |------------|-------------------------| 
-| Español    | native                  |
+| Español    | Native                  |
 | English    | Upper-Intermediate (B2) |
 | Português  | Basic                   |
 
