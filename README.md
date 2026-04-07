@@ -15,7 +15,7 @@
 </p>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills </b> 
+## <img src="https://media.tenor.com/dWhq8ea4tIgAAAAi/deer-southern-pudu.gif" width ="25"><b> Skills </b> 
 
 <table>
 <tr>
@@ -66,7 +66,7 @@
 </tr>
 </table>
 
-<img width="478" height="498" align="right" src="https://github.com/user-attachments/assets/c08f9eaa-e9c1-4cb8-898d-c642659d89c2" />
+<img width="478" height="498" align="right" src="https://media.tenor.com/dWhq8ea4tIgAAAAi/deer-southern-pudu.gif" />
 
 <br>
 
