@@ -40,7 +40,7 @@
 
 | Languages    | Frameworks | Libraries        | Runtime |
 |--------------|------------|------------------|---------|
-| HTML         |            | React            |         |
+| HTML         |            | React - Vue      | Vite    |
 | CSS          |            | Tailwind CSS     |         |
 | JavaScript   | Express.js | Three.js (WebGL) | Node.js |
 | TypeScript   |            |                  |         |
