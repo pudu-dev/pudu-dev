@@ -17,159 +17,127 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills </b> 
 
+<table>
+<tr>
+ 
+<td  valign="top" width="60%">
+
 ### Main Stack:
 
+| Languages    | Frameworks | Libraries        | Runtime |
+|--------------|------------|------------------|---------|
+| HTML         |            | React            |         |
+| CSS          |            | Tailwind CSS     |         |
+| JavaScript   | Express.js | Three.js (WebGL) | Node.js |
+| TypeScript   |            |                  |         |
+| PHP          |            |                  |         |
+| Python       | Django     |                  |         |
+
+</td>
+
+
+<td  valign="top" width="40%">
+ 
+### Tags:
+
+- WebSockets
+- REST APIs
+- HTTP / JSON
+- AJAX
+- AAA (JWT, Cookies / Sessions)
+- Responsive design (mobile-first)
+- State Management
+- CRUD
+- MIDDLEWARE
+- ORM
+- Asynchronous Programming
+- MVC / MVT
+- Client-Server Architecture
+- API-based Architecture
+- Component-Based Architecture
+- Event-Driven Architecture
+- Single Page Application (SPA) Architecture
+- Layered Architecture
+- SOLID principles
+- Modular Architecture
+  
+</td>
+
+</tr>
+</table>
+
 <br>
 
-**Languages:**
+### Second Stack:
+| IDE / Engine   | Lenguages |
+|----------------|-----------|
+| Android Studio |  Kotlin   |
+| Unity          |   C#      |
 
- HTML <br>
- CSS <br>
- JavaScript <br>
- TypeScript <br>
- PHP <br>
- Python 
+<br>
+
+### Basic Stack:
+| IDE / Engine | Lenguages |
+|--------------|-----------|
+| Arduino      | C++       |
+
+<br>
+
+### Databases:
+| Databases      |                             | DB Tools   |
+|----------------|-----------------------------|------------|
+| relational     | (MySQL - PostgreSQL)        | Workbench  |
+| non-relational | MongoDB                     | Tableplus  |
  
 <br>
 
-**Frameworks:**
-
- Django <br>
- Express.js 
+### Operative systems:
+| S.O                 | Utilities                 |
+|---------------------|---------------------------|
+| Windows             | Microsoft 365 - Powertoys |
+| Linux               |                           |               
  
 <br>
 
-**Libraries:**
-
- React <br>
- Tailwind CSS <br>
- Three.js (WebGL)
- 
-<br>
-
-**Runtime:**
-
- Node.js
- 
-<br>
-
-**Tags:**
-
- WebSockets<br>
- REST APIs<br>
- HTTP / JSON<br>
- AJAX<br>
- AAA (JWT, Cookies / Sessions)<br>
- Responsive design (mobile-first)<br>
- State Management<br>
- CRUD<br>
- MIDDLEWARE<br>
- ORM<br>
- Asynchronous Programming<br>
- MVC / MVT<br>
- Client-Server Architecture<br>
- API-based Architecture<br>
- Component-Based Architecture<br>
- Event-Driven Architecture<br>
- Single Page Application (SPA) Architecture<br>
- Layered Architecture<br>
- SOLID principles<br>
- Modular Architecture
+### Data Analysis:
+| Software       |
+|----------------|
+| Knime          |
+| PowerBI        |
+| Excel          |
 
 <br>
-<br>
 
-**Second Stack:**
-
- Android Studio - Kotlin<br>
- Unity C#
-
-<br>
-<br>
-
-**Basic knowledgue Stack:**
-
- Arduino C++ 
+### Cloud & Deployment:
+| Service                                           |
+|---------------------------------------------------|
+| Amazon Web Services (AWS)                         |
+| Google Cloud Platform (GCP)                       |
+| Application Deployment (Web services)             |
+| Environment Configuration (environment variables) |
 
 <br>
-<br>
 
-
-**Databases:**
-
- <strong>relational</strong>: SQL(MySQL - PostgreSQL)<br>
- <strong>non-relational</strong>: MongoDB 
- 
-<br>
-
-**Database Tools:**
-
- MySQL Workbench <br>
- TablePlus 
- 
-<br>
-<br>
- 
-
-**Sistemas Operativos:**
-
- Windows <br>
- Linux 
- 
-<br>
-<br>
-
-**Utilities:**
-
- Microsoft 365 
- 
-<br>
-<br>
-
-**Data Analysis:**
-
- Knime<br>
- PowerBI 
+### Version Control:  
+| Tools               |
+|---------------------|
+| Git & GitHub        |
+| Filezilla (sFTP)    |
 
 <br>
-<br>
 
-**Cloud & Deployment:**
-
- Amazon Web Services (AWS)<br>
- Google Cloud Platform (GCP)<br>
- Application Deployment (web apps)<br>
- Environment Configuration (environment variables) 
-
-<br>
-<br>
-
-**Version Control:**
-
- Git & GitHub<br>
- Filezilla (sFTP) 
+### Documentation:
+| Type                         |
+-------------------------------|
+| UML Diagrams                 |
+| Technical Documentation      |
+| Software Reports             |
 
 <br>
-<br>
 
-**Documentation:**
-
- UML Diagrams<br>
- Technical Documentation<br>
- Software Reports 
-
-<br>
-<br>
-
-**Idioms:**
-
- Spanish: native<br>
- English: B2 
-
-<br>
-<br>
-
-
-
-
+### Idioms:
+| Lenguage | Proficiency             |
+|----------|-------------------------| 
+| Spanish  | native                  |
+| English  | Upper-Intermediate (B2) |
 
