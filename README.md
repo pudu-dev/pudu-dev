@@ -66,13 +66,16 @@
 </tr>
 </table>
 
+<img width="478" height="498" align="right" src="https://github.com/user-attachments/assets/c08f9eaa-e9c1-4cb8-898d-c642659d89c2" />
+
 <br>
 
 ### Second Stack:
 | IDE / Engine   | Lenguages |
 |----------------|-----------|
 | Android Studio |  Kotlin   |
-| Unity          |   C#      |
+| Unity          |   C#      |        
+
 
 <br>
 
@@ -141,4 +144,5 @@
 | Español    | Native                  |
 | English    | Upper-Intermediate (B2) |
 | Português  | Basic                   |
+
 
