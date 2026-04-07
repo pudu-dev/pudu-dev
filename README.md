@@ -136,8 +136,9 @@
 <br>
 
 ### Idioms:
-| Lenguage | Proficiency             |
-|----------|-------------------------| 
-| Spanish  | native                  |
-| English  | Upper-Intermediate (B2) |
+| Lenguage   | Proficiency             |
+|------------|-------------------------| 
+| Spanish    | native                  |
+| English    | Upper-Intermediate (B2) |
+| Portuguese | Basic                   |
 
