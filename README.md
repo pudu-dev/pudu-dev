@@ -1,9 +1,11 @@
 
 ## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">
+ <img width ="25" heigth="25" align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
  <strong> 
 ¡ Hello <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/831bf846-51e5-4232-aa0d-8bb848ccc853" /> ! , I'm Pudu </strong>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img width ="25" heigth="25" align="right" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -14,8 +16,9 @@
  <a href = "mailto: benjaminmaldonadobarrales@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
+---
 <h2 align="center">
- <img width ="25" heigth="25" align="left" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
+ <img width ="25" heigth="25" align="left" src="https://media.tenor.com/1UQq8t7zZh0AAAAj/visual.gif" />
  <font size="30"><b> SKILLS </b></font>
  <img width ="25" heigth="25" align="right" src="https://media.tenor.com/1UQq8t7zZh0AAAAj/visual.gif" />
 </h2>
@@ -124,7 +127,6 @@
 | Application Deployment (Web services)             |
 | Environment Configuration (environment variables) |
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z4eGtreHllYTVxYWhmc3U3Y3A1YjZpaGw2bm1sMzBxMXI0MnpkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6TN20g8cRqOiD6IQpS/giphy.gif" />
 <br>
 
 
@@ -154,7 +156,7 @@
 
 
 
-<img width="40" height="40" align="bottom" src="https://media.tenor.com/Es_0nGDn7s8AAAAi/loading.gif" />
+<img width="30" height="30" align="right" src="https://media.tenor.com/Es_0nGDn7s8AAAAi/loading.gif" />
 
 
 
