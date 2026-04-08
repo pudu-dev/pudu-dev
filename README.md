@@ -85,6 +85,7 @@
 </td>
 </table>
 
+<img width="350" height="350" align="right" src="https://media.tenor.com/um_qmSDo92YAAAAj/looking-for-a-job-job.gif" />
 
 ### Second Stack:
 | IDE / Engine   | Lenguages |
@@ -107,7 +108,7 @@
 | relational     | (MySQL - PostgreSQL)        | Workbench  |
 | non-relational | MongoDB                     | Tableplus  |
 
-<img width="350" height="350" align="right" src="https://media.tenor.com/um_qmSDo92YAAAAj/looking-for-a-job-job.gif" />
+
 
 ### Operative systems:
 | S.O                 | Utilities                 |
@@ -115,7 +116,7 @@
 | Windows             | Microsoft 365 - Powertoys |
 | Linux               |                           |               
  
-
+<img width="350" height="350" align="right" src="https://media.tenor.com/DPTcrNNb-agAAAAi/open-to-work-work.gif" />
 
 ### Data Analysis:
 | Software       |
@@ -124,7 +125,7 @@
 | PowerBI        |
 | Excel          |
 
-<img width="350" height="350" align="right" src="https://media.tenor.com/DPTcrNNb-agAAAAi/open-to-work-work.gif" />
+
 
 ### Cloud & Deployment:
 | Service                                           |
