@@ -52,7 +52,7 @@
 </td>
 </tr>
 
-<img width="478" height="498" align="right" src="https://media.tenor.com/dWhq8ea4tIgAAAAi/deer-southern-pudu.gif" />
+<img width="478" height="498" align="middle" src="https://media.tenor.com/dWhq8ea4tIgAAAAi/deer-southern-pudu.gif" />
 
 <td  valign="top" >
  
