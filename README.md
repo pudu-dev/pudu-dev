@@ -38,14 +38,21 @@
 
 ### Main Stack:
 
-| Languages    | Frameworks | Libraries        | Runtime |
-|--------------|------------|------------------|---------|
-| HTML         |            | React - Vue      | Vite    |
-| CSS          |            | Tailwind CSS     |         |
-| JavaScript   | Express.js | Three.js (WebGL) | Node.js |
-| TypeScript   |            |                  |         |
-| PHP          |            |                  |         |
-| Python       | Django     |                  |         |
+| Languages    | Frameworks  |
+|--------------|-------------|
+| HTML         |             |
+| CSS          |             |
+| JavaScript   | Express.js  |
+| TypeScript   |             |
+| PHP          |             |
+| Python       | Django      |
+
+| Libraries        | Runtime |
+|------------------|---------|
+| React - Vue      | Vite    |
+| Tailwind CSS     |         |
+| Three.js (WebGL) | Node.js |
+
 
 <br>
 
