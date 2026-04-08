@@ -170,6 +170,17 @@
 <br>
 <br>
 
+### Note: 
+I never use AI to structure my code, i only use for studying, debugging, and optimizing specific blocks of code. <br>
+**I prefer to create clean and scalable code for all my projects**. 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=23C527&width=600&lines=the+real+%22vibe+coding%22++is+making+music+with+code)](https://git.io/typing-svg)
+
+
+<br>
+<br>
+
 <p align="center">
   <img src="https://media.tenor.com/Es_0nGDn7s8AAAAi/loading.gif" width="30" height="30" />
 </p>
