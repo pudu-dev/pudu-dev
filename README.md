@@ -52,7 +52,7 @@
 </td>
 </tr>
 
-
+<img width="478" height="498" align="right" src="https://media.tenor.com/dWhq8ea4tIgAAAAi/deer-southern-pudu.gif" />
 
 <td  valign="top" >
  
@@ -85,9 +85,6 @@
 </td>
 </table>
 
-<img width="478" height="498" align="right" src="https://media.tenor.com/dWhq8ea4tIgAAAAi/deer-southern-pudu.gif" />
-
-<br>
 
 ### Second Stack:
 | IDE / Engine   | Lenguages |
@@ -96,14 +93,13 @@
 | Unity          |   C#      |        
 
 
-<br>
 
 ### Basic Stack:
 | IDE / Engine | Lenguages |
 |--------------|-----------|
 | Arduino      | C++       |
 
-<br>
+
 
 ### Databases:
 | Databases      |                             | DB Tools   |
@@ -111,8 +107,7 @@
 | relational     | (MySQL - PostgreSQL)        | Workbench  |
 | non-relational | MongoDB                     | Tableplus  |
 
-<img width="400" height="400" align="right" src="https://media.tenor.com/um_qmSDo92YAAAAj/looking-for-a-job-job.gif" />
-<br>
+<img width="350" height="350" align="right" src="https://media.tenor.com/um_qmSDo92YAAAAj/looking-for-a-job-job.gif" />
 
 ### Operative systems:
 | S.O                 | Utilities                 |
@@ -120,7 +115,7 @@
 | Windows             | Microsoft 365 - Powertoys |
 | Linux               |                           |               
  
-<br>
+
 
 ### Data Analysis:
 | Software       |
@@ -129,8 +124,7 @@
 | PowerBI        |
 | Excel          |
 
-<br>
-<img width="400" height="400" align="right" src="https://media.tenor.com/DPTcrNNb-agAAAAi/open-to-work-work.gif" />
+<img width="350" height="350" align="right" src="https://media.tenor.com/DPTcrNNb-agAAAAi/open-to-work-work.gif" />
 
 ### Cloud & Deployment:
 | Service                                           |
@@ -140,7 +134,7 @@
 | Application Deployment (Web services)             |
 | Environment Configuration (environment variables) |
 
-<br>
+
 
 ### Version Control:  
 | Tools               |
@@ -148,8 +142,7 @@
 | Git & GitHub        |
 | Filezilla (sFTP)    |
 
-<br>
-<img width="400" height="400" align="right" src="https://media.tenor.com/oggLKmyubM0AAAAi/yes-say-yes.gif" />
+<img width="350" height="350" align="right" src="https://media.tenor.com/oggLKmyubM0AAAAi/yes-say-yes.gif" />
 
 ### Documentation:
 | Type                         |
@@ -158,7 +151,7 @@
 | Technical Documentation      |
 | Software Reports             |
 
-<br>
+
 
 ### Idioms:
 | Lenguage   | Proficiency             |
@@ -167,6 +160,7 @@
 | English    | Upper-Intermediate (B2) |
 | Português  | Basic                   | 
 
+<br>
 <br>
 
 <p align="center">
