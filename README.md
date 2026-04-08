@@ -34,7 +34,7 @@
 <table>
 <tr>
  
-<td  valign="top" width="60%">
+<td  valign="top">
 
 ### Main Stack:
 
@@ -47,10 +47,14 @@
 | PHP          |            |                  |         |
 | Python       | Django     |                  |         |
 
+<br>
+
 </td>
+</tr>
 
 
-<td  valign="top" width="40%">
+
+<td  valign="top" >
  
 ### Tags:
 
@@ -66,18 +70,19 @@
 - ORM
 - Asynchronous Programming
 - MVC / MVT
+- SPA
+- CMS
 - Client-Server Architecture
 - API-based Architecture
 - Component-Based Architecture
 - Event-Driven Architecture
-- Single Page Application (SPA) Architecture
 - Layered Architecture
 - SOLID principles
 - Modular Architecture
-  
-</td>
 
-</tr>
+<br>
+
+</td>
 </table>
 
 <img width="478" height="498" align="right" src="https://media.tenor.com/dWhq8ea4tIgAAAAi/deer-southern-pudu.gif" />
@@ -105,9 +110,9 @@
 |----------------|-----------------------------|------------|
 | relational     | (MySQL - PostgreSQL)        | Workbench  |
 | non-relational | MongoDB                     | Tableplus  |
- 
-<br>
+
 <img width="400" height="400" align="right" src="https://media.tenor.com/um_qmSDo92YAAAAj/looking-for-a-job-job.gif" />
+<br>
 
 ### Operative systems:
 | S.O                 | Utilities                 |
